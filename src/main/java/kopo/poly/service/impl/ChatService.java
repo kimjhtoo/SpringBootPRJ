@@ -1,7 +1,7 @@
 package kopo.poly.service.impl;
 
 import kopo.poly.dto.ChatDTO;
-import kopo.poly.persistance.redis.IChatMapper;
+import kopo.poly.interceptor.redis.IChatMapper;
 import kopo.poly.service.IChatService;
 import kopo.poly.util.CmmUtil;
 import lombok.RequiredArgsConstructor;
