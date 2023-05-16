@@ -1,4 +1,4 @@
-package kopo.poly.persistance.redis;
+package kopo.poly.interceptor.redis;
 
 import kopo.poly.dto.ChatDTO;
 
