@@ -1,7 +1,7 @@
-package kopo.poly.persistance.redis.impl;
+package kopo.poly.interceptor.redis.impl;
 
 import kopo.poly.dto.MelonDTO;
-import kopo.poly.persistance.redis.IMelonCacheMapper;
+import kopo.poly.interceptor.redis.IMelonCacheMapper;
 import kopo.poly.util.DateUtil;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
