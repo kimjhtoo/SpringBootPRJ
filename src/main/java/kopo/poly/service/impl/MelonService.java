@@ -2,7 +2,7 @@ package kopo.poly.service.impl;
 
 import kopo.poly.dto.MelonDTO;
 import kopo.poly.persistance.mongodb.IMelonMapper;
-import kopo.poly.persistance.redis.IMelonCacheMapper;
+import kopo.poly.interceptor.redis.IMelonCacheMapper;
 import kopo.poly.service.IMelonService;
 import kopo.poly.util.CmmUtil;
 import kopo.poly.util.DateUtil;
