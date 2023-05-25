@@ -1,7 +1,7 @@
-package kopo.poly.persistance.redis.impl;
+package kopo.poly.interceptor.redis.impl;
 
 import kopo.poly.dto.MovieDTO;
-import kopo.poly.persistance.redis.IMovieMapper;
+import kopo.poly.interceptor.redis.IMovieMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.redis.core.RedisTemplate;
