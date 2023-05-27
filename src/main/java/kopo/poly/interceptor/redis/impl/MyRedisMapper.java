@@ -1,7 +1,7 @@
-package kopo.poly.persistance.redis.impl;
+package kopo.poly.interceptor.redis.impl;
 
 import kopo.poly.dto.RedisDTO;
-import kopo.poly.persistance.redis.IMyRedisMapper;
+import kopo.poly.interceptor.redis.IMyRedisMapper;
 import kopo.poly.util.CmmUtil;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
