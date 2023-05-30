@@ -1,0 +1,3 @@
+2023-05-11 10:20:25 [INFO ] k.poly.SpringBootPrjApplicationTests - Starting SpringBootPrjApplicationTests using Java 20 on DESKTOP-9SARDD4 with PID 12768 (started by data08 in D:\SpringBootPRJ)
+2023-05-11 10:20:25 [INFO ] k.poly.SpringBootPrjApplicationTests - The following 1 profile is active: "prod"
+2023-05-11 10:20:29 [INFO ] k.poly.SpringBootPrjApplicationTests - Started SpringBootPrjApplicationTests in 4.434 seconds (JVM running for 5.806)
