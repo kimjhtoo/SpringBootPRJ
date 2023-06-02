@@ -1,0 +1,18 @@
+2023-05-12 12:52:02 [INFO ] kopo.poly.SpringBootPrjApplication - Starting SpringBootPrjApplication using Java 20 on DESKTOP-9SARDD4 with PID 16824 (D:\SpringBootPRJ\target\classes started by data08 in D:\SpringBootPRJ)
+2023-05-12 12:52:02 [INFO ] kopo.poly.SpringBootPrjApplication - The following 1 profile is active: "prod"
+2023-05-12 12:52:06 [INFO ] kopo.poly.SpringBootPrjApplication - Started SpringBootPrjApplication in 4.378 seconds (JVM running for 6.554)
+2023-05-12 12:52:20 [INFO ] kopo.poly.SpringBootPrjApplication - Starting SpringBootPrjApplication using Java 20 on DESKTOP-9SARDD4 with PID 12424 (D:\SpringBootPRJ\target\classes started by data08 in D:\SpringBootPRJ)
+2023-05-12 12:52:20 [INFO ] kopo.poly.SpringBootPrjApplication - The following 1 profile is active: "prod"
+2023-05-12 12:52:24 [INFO ] kopo.poly.SpringBootPrjApplication - Started SpringBootPrjApplication in 4.201 seconds (JVM running for 5.457)
+2023-05-12 12:52:31 [INFO ] k.poly.controller.NoticeController - kopo.poly.controller.NoticeController.noticeInfo Start!
+2023-05-12 12:52:31 [INFO ] k.poly.controller.NoticeController - nSeq : 
+2023-05-12 12:52:45 [INFO ] k.poly.controller.NoticeController - kopo.poly.controller.NoticeController.noticeList Start!
+2023-05-12 12:52:45 [INFO ] kopo.poly.service.impl.NoticeService - kopo.poly.service.impl.NoticeService.getNoticeList start!
+2023-05-12 12:52:58 [INFO ] k.poly.controller.NoticeController - kopo.poly.controller.NoticeController.noticeList Start!
+2023-05-12 12:52:58 [INFO ] kopo.poly.service.impl.NoticeService - kopo.poly.service.impl.NoticeService.getNoticeList start!
+2023-05-12 12:53:24 [INFO ] kopo.poly.SpringBootPrjApplication - Starting SpringBootPrjApplication using Java 20 on DESKTOP-9SARDD4 with PID 9632 (D:\SpringBootPRJ\target\classes started by data08 in D:\SpringBootPRJ)
+2023-05-12 12:53:24 [INFO ] kopo.poly.SpringBootPrjApplication - The following 1 profile is active: "prod"
+2023-05-12 12:53:27 [INFO ] kopo.poly.SpringBootPrjApplication - Started SpringBootPrjApplication in 3.391 seconds (JVM running for 4.864)
+2023-05-12 13:20:39 [INFO ] kopo.poly.SpringBootPrjApplication - Starting SpringBootPrjApplication using Java 20 on DESKTOP-9SARDD4 with PID 5008 (D:\SpringBootPRJ\target\classes started by data08 in D:\SpringBootPRJ)
+2023-05-12 13:20:39 [INFO ] kopo.poly.SpringBootPrjApplication - The following 1 profile is active: "prod"
+2023-05-12 13:20:43 [INFO ] kopo.poly.SpringBootPrjApplication - Started SpringBootPrjApplication in 3.708 seconds (JVM running for 4.718)
